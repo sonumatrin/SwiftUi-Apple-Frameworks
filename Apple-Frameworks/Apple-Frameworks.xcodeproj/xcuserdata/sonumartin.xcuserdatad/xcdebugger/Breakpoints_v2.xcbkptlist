@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1C691D2F-6E35-4E6B-B502-FEE3ECDE9CBE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C892BE8-AD29-459C-806E-94F8E9D1F229"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Apple-Frameworks/FrameworkGridView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0C892BE8-AD29-459C-806E-94F8E9D1F229 - 14746727642bf1c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Apple_Frameworks.Framework&gt;, Foundation.UUID, Apple_Frameworks.FrameworkTitleView&gt; in Apple_Frameworks.FrameworkGridView.body.getter : some"
+                  moduleName = "Apple-Frameworks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonumartin/Desktop/Apple%20My%20Study/SwiftUI%20-Apps/SwiftUi-Apple-Frameworks/Apple-Frameworks/Apple-Frameworks/FrameworkGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "0C892BE8-AD29-459C-806E-94F8E9D1F229 - 87a6e8a9002b38e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Apple_Frameworks.Framework) -&gt; Apple_Frameworks.FrameworkTitleView in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Apple_Frameworks.Framework&gt;, Foundation.UUID, Apple_Frameworks.FrameworkTitleView&gt; in Apple_Frameworks.FrameworkGridView.body.getter : some"
+                  moduleName = "Apple-Frameworks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonumartin/Desktop/Apple%20My%20Study/SwiftUI%20-Apps/SwiftUi-Apple-Frameworks/Apple-Frameworks/Apple-Frameworks/FrameworkGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "0C892BE8-AD29-459C-806E-94F8E9D1F229 - 2b4848e70577ac50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Apple_Frameworks.Framework&gt;, Foundation.UUID, Apple_Frameworks.FrameworkTitleView&gt; in closure #1 () -&gt; SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Apple_Frameworks.Framework&gt;, Foundation.UUID, Apple_Frameworks.FrameworkTitleView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Apple_Frameworks.FrameworkGridView.body.getter : some"
+                  moduleName = "Apple-Frameworks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonumartin/Desktop/Apple%20My%20Study/SwiftUI%20-Apps/SwiftUi-Apple-Frameworks/Apple-Frameworks/Apple-Frameworks/FrameworkGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "0C892BE8-AD29-459C-806E-94F8E9D1F229 - e29c8bcdaf798627"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Apple_Frameworks.Framework) -&gt; Apple_Frameworks.FrameworkTitleView in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Apple_Frameworks.Framework&gt;, Foundation.UUID, Apple_Frameworks.FrameworkTitleView&gt; in closure #1 () -&gt; SwiftUI.LazyVGrid&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Apple_Frameworks.Framework&gt;, Foundation.UUID, Apple_Frameworks.FrameworkTitleView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in Apple_Frameworks.FrameworkGridView.body.getter : some"
+                  moduleName = "Apple-Frameworks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonumartin/Desktop/Apple%20My%20Study/SwiftUI%20-Apps/SwiftUi-Apple-Frameworks/Apple-Frameworks/Apple-Frameworks/FrameworkGridView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "145">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
